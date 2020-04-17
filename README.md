@@ -1,3 +1,5 @@
 # CynthiaOS
 
-An attempt to build a secure, efficient, and light-weight Unix-like operating system.
+An attempt to build a fast, secure, light-weight and efficient Unix-like operating system.
+
+🔨 **STATUS:** Bootloader Build On Progress
