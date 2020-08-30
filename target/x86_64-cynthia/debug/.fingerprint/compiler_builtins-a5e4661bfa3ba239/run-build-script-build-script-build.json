@@ -1,1 +1,0 @@
-{"rustc":11789395909990628562,"features":"","target":0,"profile":0,"path":0,"deps":[[3949504798455743972,"build_script_build",false,15499187929108409760]],"local":[{"RerunIfChanged":{"output":"x86_64-cynthia/debug/build/compiler_builtins-a5e4661bfa3ba239/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0}
