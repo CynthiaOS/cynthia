@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# script to run build on qemu
+
 printf "\n==================================\n"
 printf "\tBooting CynthiaOS"
 printf "\n==================================\n\n"
