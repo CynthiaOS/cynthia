@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/home/mufeedvh/dev/cynthia/cynthia/Cargo.toml
+cargo:rustc-link-search=native=/home/mufeedvh/dev/cynthia/cynthia/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-3df537c403a9f89d/out
+cargo:rustc-link-lib=static=kernel_bin-cynthia
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/home/mufeedvh/dev/cynthia/cynthia/target/x86_64-cynthia/debug/cynthia
+cargo:rerun-if-changed=build.rs
